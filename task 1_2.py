@@ -1,8 +1,5 @@
-print ("enter a")
-a = int(input())
-print ("Enter b")
-b = int(input())
 
-
+a = int(input("enter a"))
+b = int(input("Enter b"))
 print (a*b)
 print  (a-b)
