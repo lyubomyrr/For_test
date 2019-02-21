@@ -1,3 +1,4 @@
+#python 2.7
 from random import randint
 
 board = []
